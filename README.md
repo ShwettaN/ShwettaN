@@ -5,24 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/curiocity_iris" target="blank"><img src="https://img.shields.io/twitter/follow/curiocity_iris?logo=twitter&style=for-the-badge" alt="curiocity_iris" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Data Structures and algorithms**
+- 🌱 I’m currently learning **Data Structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://shwettaswebsite.netlify.app/](https://shwettaswebsite.netlify.app/)
 
 - 📫 How to reach me **shwetanere2014@gmail.com**
 
-- ⚡ Fun fact **Roses are red but why violets are blue? Doesn't makes sense;)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/curiocity_iris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="curiocity_iris" height="30" width="40" /></a>
 <a href="https://instagram.com/shhwetttaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shhwetttaa" height="30" width="40" /></a>
-<a href="https://dribbble.com/shweta nere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="shweta nere" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shwrleey_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shwrleey_23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/scarrlett" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="scarrlett" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shwrleey_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shwrleey_23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shwrleey_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="shwrleey_23" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/scarrlett" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="scarrlett" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

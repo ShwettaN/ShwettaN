@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-git-hub" /> </p>
 
-<p align="left"> <a href="https://twitter.com/curiocity_iris" target="blank"><img src="https://img.shields.io/twitter/follow/curiocity_iris?logo=twitter&style=for-the-badge" alt="curiocity_iris" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Structures and algorithms**
 

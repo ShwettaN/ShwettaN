@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Nere</h1>
-<h3 align="center">Passionate frontend developer and coder in process</h3>
+<h3 align="center">X P L O R E R</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="shwettan" /> </p>
 

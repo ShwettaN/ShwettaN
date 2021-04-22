@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/curiocity_iris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="curiocity_iris" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shweta nere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shweta nere" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shweta-nere-633763191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shweta nere" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/shwetta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shwetta" height="30" width="40" /></a> -->
 <a href="https://instagram.com/shhwetttaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shhwetttaa" height="30" width="40" /></a>
 </p>
